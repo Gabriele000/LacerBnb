@@ -37,6 +37,10 @@ p {
   color: rgba(255,255,255,.9);
 }
 
+#index-banner {
+  text-shadow: 5px 5px 4px black;
+}
+
 .section-intro {
   height: 100%;
   width: 100%;
